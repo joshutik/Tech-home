@@ -1,0 +1,16 @@
+/* h1{
+    text-align: center;
+}
+
+p {
+    margin: auto;
+    padding: 20px;
+    width: 50%;
+    font-family: Arial, Helvetica, sans-serif;
+} */
+.bg-head {
+    background-image:linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.514)), url(./img/freetrial-a6fbbdff40454245c799.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
